@@ -3,7 +3,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg navbar-dark fixed-top custom-nav">
       <div className="container">
         <a className="navbar-brand fw-bold logo" href="#home">
-          Karunesh Shivade
+          Karunesh Shivade Portfolio
         </a>
 
         <button
