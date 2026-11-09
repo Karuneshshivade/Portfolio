@@ -93,18 +93,6 @@ function Projects() {
 
                   </div>
 
-                  <div className="project-buttons mt-4">
-
-                    <button className="btn hero-btn me-3">
-                      Live Demo
-                    </button>
-
-                    <button className="btn btn-outline-light">
-                      GitHub
-                    </button>
-
-                  </div>
-
                 </div>
 
               </motion.div>
